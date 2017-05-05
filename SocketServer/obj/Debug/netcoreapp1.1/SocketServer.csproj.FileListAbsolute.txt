@@ -1,0 +1,9 @@
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp1.1\SocketServer.deps.json
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp1.1\SocketServer.runtimeconfig.json
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp1.1\SocketServer.runtimeconfig.dev.json
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp1.1\SocketServer.dll
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\bin\Debug\netcoreapp1.1\SocketServer.pdb
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp1.1\SocketServer.csprojResolveAssemblyReference.cache
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp1.1\SocketServer.AssemblyInfo.cs
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp1.1\SocketServer.dll
+c:\users\natha\documents\visual studio 2017\Projects\SocketServer\SocketServer\obj\Debug\netcoreapp1.1\SocketServer.pdb
